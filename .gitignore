@@ -1,0 +1,40 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+
+# Compiled Python files
+*.py[cod]
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Frontend build artifacts (if any)
+node_modules/  # If you add JavaScript dependencies later
+*.log
+
+# System files
+*.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Database files (if any)
+*.db
+*.sqlite
